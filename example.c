@@ -2,4 +2,7 @@
 
 void main(){
 	printf("jisu");
+	printf("aa");
+
 }
+
